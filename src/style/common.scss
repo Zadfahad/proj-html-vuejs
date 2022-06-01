@@ -1,0 +1,26 @@
+@import "~bootstrap/scss/bootstrap.scss";
+
+
+
+
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+img{
+    width: 100%;
+}
+
+
+.ms_btn{
+    text-transform: uppercase;
+}
+.ms_btn-orange{
+    background-color: #d2401e;
+    padding: 1rem;
+}
