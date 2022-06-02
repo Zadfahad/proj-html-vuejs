@@ -2,7 +2,7 @@
   <!-- MAIN -->
     <main>
         <div class="specials">
-      <div class="ms_container">
+      <div class="ms_container pt-3">
         <div class="container-fluid">
           <div class="row  row-cols-lg-2">
             <div class="col plus ">
@@ -22,7 +22,7 @@
       </div>
     </div>
     <div class="banner">
-        <div class="ms_container">
+        <div class="ms_container pt-2">
             <div class="container-fluid bimg-container">
                 <div class="row">
                     <img class="bimg" src="../img/h3-background-img.jpg" alt="">
@@ -32,7 +32,7 @@
 
     </div>
       <div class="mini-jumbos">
-      <div class="ms_container">
+      <div class="ms_container pt-2">
         <div class="container-fluid">
           <div class="row  row-cols-lg-4 g-0">
             <div class="col ">
@@ -56,7 +56,7 @@
       </div>
     </div>
     <div class="options">
-        <div class="ms_container">
+        <div class="ms_container pt-2">
             <div class="row row-cols-lg5">
                 <div class="col ">
               <img src="../img/h1-clients-img-4.png" alt="" />
@@ -78,14 +78,14 @@
         </div>
     </div>
     <div class="menu">
-        <div class="ms_container">
+        <div class="ms_container pt-2">
             <div class="row">
                 <p class="text-center rtext">choose your flavour</p>
                 <h3 class="text-center">THE BEST PIZZA MENU IN TOWN</h3>
                 <p class="text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam dolores <br> ne obcaecati alias aus! Autem, voluptates!</p>
 
             </div>
-            <div class="row row-cols-lg6">
+            <div class="row row-cols-lg6 pt-3">
 
                  <div class="col ">
               <img src="../img/h3-product-img-1a-100x100.png" alt="" />
@@ -110,7 +110,7 @@
         </div>
     </div>
     <div class="deals">
-        <div class="ms_container">
+        <div class="ms_container pt-5">
             <div class="row row-cols-lg2">
                 <div class="col">
                     <h3>pizza </h3>
@@ -122,7 +122,7 @@
         </div>
     </div>
     <div class="orde">
-        <div class="ms_container">
+        <div class="ms_container pt-2">
             <div class="row">
                 <img src="../img/h3-background-img-3.jpg" alt="">
             </div>

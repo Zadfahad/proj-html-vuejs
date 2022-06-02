@@ -115,7 +115,7 @@
       </div>
     </div>
     <div class="reviews">
-      <div class="ms_container">
+      <div class="ms_container pt-3 bg-white">
         <div class="container-fluid">
           <div class="row">
             <img src="../img/h3-testimonials-bckgrnd.jpg" alt="">
